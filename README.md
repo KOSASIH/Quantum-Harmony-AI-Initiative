@@ -10,7 +10,7 @@ Launch an AI initiative that harmonizes quantum computing with advanced neural n
 - [Contributor Guide](#contributor-guide)
 - [Tutorials](#tutorials)
 - [Roadmap](#roadmap)
-- [Aknowledgement](#
+- [Aknowledgement](aknowledgement.md) 
 
 # Description 
 
