@@ -159,6 +159,86 @@ The Quantum Harmony AI Initiative addresses a range of challenges to achieve its
 
 By actively tackling these challenges, the Quantum Harmony AI Initiative aims to pave the way for a future where the seamless integration of quantum computing and advanced neural networks becomes a transformative force in artificial intelligence.
 
+# Contributor Guide 
+
+**Contributor Guide for Quantum Harmony AI Initiative Git Repository**
+
+**Welcome to the Quantum Harmony AI Initiative! We appreciate your interest in contributing to our Git repository. Below is a guide to help you get started and make meaningful contributions.**
+
+### Getting Started
+
+1. **Fork the Repository:**
+   - Fork the Quantum Harmony AI Initiative repository to your GitHub account.
+
+2. **Clone the Repository:**
+   - Clone your forked repository to your local machine using `git clone [ https://github.com/KOSASIH/Quantum-Harmony-AI-Initiative]`.
+
+3. **Branching:**
+   - Create a new branch for your contribution using a descriptive branch name. For example:
+     ```
+     git checkout -b feature/your-feature-name
+     ```
+
+### Making Changes
+
+4. **Code and Documentation:**
+   - Make your changes in the appropriate directories.
+   - Ensure code follows the project's coding standards.
+   - Provide clear and concise documentation for any new features or changes.
+
+5. **Committing:**
+   - Commit your changes with meaningful commit messages:
+     ```
+     git commit -m "Add feature: your feature description"
+     ```
+
+### Keeping in Sync
+
+6. **Sync with Upstream:**
+   - If the main repository has been updated since you forked, sync your forked repository:
+     ```
+     git remote add upstream [original repository URL]
+     git fetch upstream
+     git checkout main
+     git merge upstream/main
+     ```
+
+### Submitting Changes
+
+7. **Pushing Changes:**
+   - Push your changes to your forked repository:
+     ```
+     git push origin feature/your-feature-name
+     ```
+
+8. **Pull Request:**
+   - Open a pull request on the main repository.
+   - Provide a clear title and description of your changes.
+   - Reference any relevant issues.
+
+### Code Review
+
+9. **Code Review:**
+   - Participate in the code review process.
+   - Address feedback and make necessary revisions.
+
+### Contribution Guidelines
+
+10. **License Agreement:**
+    - Ensure your contributions comply with the project's licensing agreement.
+
+11. **Be Respectful:**
+    - Respect the opinions and efforts of other contributors.
+    - Maintain a positive and collaborative environment.
+
+12. **Testing:**
+    - Include tests for your changes whenever possible.
+    - Ensure existing tests pass.
+
+### Thank you for Contributing!
+
+By following this guide, you help ensure a smooth and collaborative contribution process. Your efforts contribute to the success of the Quantum Harmony AI Initiative. If you have any questions, feel free to reach out to the project maintainers. Happy coding!
+
 # Tutorials 
 
 ## Quantum Simulator
