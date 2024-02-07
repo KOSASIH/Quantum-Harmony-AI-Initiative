@@ -31,7 +31,7 @@ Special thanks to:
 
 This acknowledgment is a testament to the collaborative effort and shared vision that propels the Quantum Harmony AI Initiative forward. Together, we are shaping the future of artificial intelligence and quantum computing.
 
-KOSASIH 
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Quantum Harmony AI Initiative Team
 
